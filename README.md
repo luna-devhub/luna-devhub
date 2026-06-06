@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hellooooooooo, I'm Luna!
+
+💻 Developer | 🚀 Builder | 🌱 Learner
+
+I enjoy building projects, learning new tech, and exploring software development.
+
+🧰 Tech I use
+
+Python • Java • JavaScript • PHP • Git 
 
 <!--
 **luna-devhub/luna-devhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
