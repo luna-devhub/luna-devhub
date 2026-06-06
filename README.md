@@ -1,10 +1,10 @@
-👋 Hellooooooooo, I'm Luna!
+#👋 Hellooooooooo, I'm Luna!
 
 💻 Developer | 🚀 Builder | 🌱 Learner
 
 I enjoy building projects, learning new tech, and exploring software development.
 
-🧰 Tech I use
+## 🧰 Tech I use
 
 Python • Java • JavaScript • PHP • Git 
 
